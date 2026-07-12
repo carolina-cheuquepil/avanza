@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+/dist/
+/.openai/
+/.wrangler/
+/outputs/
+/work/
+.env*
+*.pem
+*.tsbuildinfo
